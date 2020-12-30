@@ -7,8 +7,10 @@ An weather application wrote by react and type script, mainly used for practice.
 
 
 ## Github pages
-** install gh-page**
+**install gh-page**
+
 `npm install gh-page`
+
 **add script to package.json**
 
 ```
