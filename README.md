@@ -9,12 +9,12 @@ An weather application wrote by react and type script, mainly used for practice.
 ## Github pages
 ** install gh-page**
 `npm install gh-page`
-** add script to package.json**
+**add script to package.json**
 ```
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
 ```
-** Add home page to package.json**
+**Add home page to package.json**
 ```
   "homepage": "http://jiayanguo.github.io/weather-app",
 ```
