@@ -9,7 +9,7 @@ An weather application wrote by react and type script, mainly used for practice.
 ## Github pages
 **install gh-page**
 
-`npm install gh-page`
+`npm install gh-pages --save-dev`
 
 **add script to package.json**
 
@@ -22,3 +22,5 @@ An weather application wrote by react and type script, mainly used for practice.
 ```
   "homepage": "http://jiayanguo.github.io/weather-app",
 ```
+
+npm run deploy
